@@ -1,21 +1,21 @@
-## 🎥 Video de Demostración
+##  Video de Demostración
 
 Puedes ver el video funcionando en el siguiente enlace:  
-[📹 Ver en YouTube](https://youtu.be/46xgYApWXhk?si=2AZzfnGNqEfHYmTE)
+[ Ver en YouTube](https://youtu.be/46xgYApWXhk?si=2AZzfnGNqEfHYmTE)
 
 
-# 📦 Sistema de Gestión de Inventarios
+#  Sistema de Gestión de Inventarios
 
 Proyecto final de la clase **Programación Orientada a Objetos** – UTH
 
-## 👨‍💻 Desarrollado por:
+##  Desarrollado por:
 **Arnold Aguilar**  
 Número de cuenta: 202130010449
 
-## 📋 Descripción
+##  Descripción
 Este sistema permite gestionar productos dentro de un inventario, junto con sus categorías y proveedores. Fue desarrollado en Java utilizando los principios fundamentales de la Programación Orientada a Objetos.
 
-## 🧠 Características
+##  Características
 
 - Agregar productos con categoría y proveedor
 - Mostrar el inventario completo
@@ -23,12 +23,12 @@ Este sistema permite gestionar productos dentro de un inventario, junto con sus 
 - Alertas de stock bajo
 - Menú interactivo en consola
 
-## ⚙️ Tecnologías
+##  Tecnologías
 - Lenguaje: **Java**
 - Entorno: **Apache NetBeans IDE 24**
 - Repositorio: **GitHub**
 
-## 📦 Principios de POO aplicados
+##  Principios de POO aplicados
 
 | Principio       | Aplicación                                                                 |
 |----------------|-----------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Este sistema permite gestionar productos dentro de un inventario, junto con sus 
 | Abstracción     | `Entidad` como clase abstracta general para entidades                     |
 | Excepciones     | Manejo de errores con `try-catch` en entrada de datos                     |
 
-## 🏁 Instrucciones de uso
+## Instrucciones de uso
 
 1. Clona o descarga el repositorio.
 2. Abre el proyecto en NetBeans.
