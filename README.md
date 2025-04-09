@@ -1,3 +1,9 @@
+## 🎥 Video de Demostración
+
+Puedes ver el video funcionando en el siguiente enlace:  
+[📹 Ver en YouTube](https://youtu.be/46xgYApWXhk?si=2AZzfnGNqEfHYmTE)
+
+
 # 📦 Sistema de Gestión de Inventarios
 
 Proyecto final de la clase **Programación Orientada a Objetos** – UTH
